@@ -42,5 +42,4 @@
 **Тэг на Dockerhub:**
  - atrem2023/otus-docker:amd64
 
-[Ссылка на репозиторий в DockerHub][1]
-[1]: https://hub.docker.com/repository/docker/atrem2023/otus-docker/tags/amd64/sha256:e12911a9ade123c6a2cc034bc438477c4fd7ea904ec4a064f206717018f5a75f "Ссылка на репозиторий в DockerHub"
+[Ссылка на репозиторий в DockerHub](https://hub.docker.com/repository/docker/atrem2023/otus-docker/tags/amd64/sha256:e12911a9ade123c6a2cc034bc438477c4fd7ea904ec4a064f206717018f5a75f)
