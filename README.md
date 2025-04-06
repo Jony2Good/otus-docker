@@ -25,8 +25,8 @@
 
 **Чтобы направить запрос на endpoint /health:**
 
-- Заходим в контейнер nginx командой: *docker exec OtusDocker-nginx sh*
-- Прописываем и выполняем команду: curl *http://localhost:8080/api/health*
+- Заходим через терминал в контейнер nginx командой: *docker exec OtusDocker-nginx sh*
+- Находясь внутри контейнера, в терминале прописываем и выполняем команду: curl *http://localhost:8080/api/health*
 
 Другой вариант:
 - С помощью программ POSTMAN, Hoppscotch и д.р. направить запрос методом GET по маршруту http://127.0.0.1:8080/api/health
